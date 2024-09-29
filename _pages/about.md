@@ -31,7 +31,7 @@ My research interest includes neural machine translation and computer vision. I 
 -  [Updates on Spotted-wing Drosophila (SWD) activity in Indiana blueberries](https://fff.hort.purdue.edu/article/updates-on-spotted-wing-drosophila-swd-activity-in-indiana-blueberries/). Hong, Z., & Long., E.Y. (2021). Purdue University Facts for Fancy Fruit Newsletter, 21(8).  
 
 # 🎖 Honors & Awards
-- *2022.12* (Outstanding Master's Student Award)[https://ag.purdue.edu/department/entm/_docs/newsletters/boiler-buzz/entm-december-2022-newsletter.pdf], Purdue University.
+- *2022.12* [Outstanding Master's Student Award](https://ag.purdue.edu/department/entm/_docs/newsletters/boiler-buzz/entm-december-2022-newsletter.pdf), Purdue University.
 - *2020.06* 浙江大学优秀毕业生 (Outstanding Graduates of Zhejiang University)
 - *2020.05* 浙江省普通高等学校优秀毕业生称号 (Outstanding Graduates of Zhejiang Province)
 
