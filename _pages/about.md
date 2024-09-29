@@ -8,23 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-{% if site.google_scholar_stats_use_cdn %}
-{% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
-{% else %}
-{% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
-{% endif %}
-{% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
-
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
-
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+I am a PhD student in Quantitative Ecology and Resource Management (QERM) at the University of Washiongton. My interests lie in using quantitative methods to address both basic and applied ecological questions, with a particular focus on climate change, biodiversity, and conservation issues. My current research in the [Landscape Ecology and Conservation Lab](https://www.landecol.org/) centers on assessing species' vulnerability to climate change. Before joining UW, I earned her M.S. from Purdue University and her B.S. from Cornell University in Entomology, where she focused on integrated pest management of agricultural pests.
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2023.09*: [I join the QERM program at the University of Washington!](https://quantitative.uw.edu/about/news/2024/02/08/introducing-the-autumn-2023-cohort/)
 
 # 📝 Publications 
 -  Optimizing a rapid LAMP assay for discrimination of *Drosophila suzukii* (Diptera: Drosophilidae) from common drosophilids captured in monitoring traps from the Midwest, United States. **Hong, Z.**, Michel, A.P., & Long, E.Y. (2023). Journal of Economic Entomology, 116(4), 1391–1397. [https://doi.org/10.1093/jee/toad105](https://doi.org/10.1093/jee/toad105).
@@ -32,8 +22,8 @@ My research interest includes neural machine translation and computer vision. I 
 
 # 🎖 Honors & Awards
 - *2022.12* [Outstanding Master's Student Award](https://ag.purdue.edu/department/entm/_docs/newsletters/boiler-buzz/entm-december-2022-newsletter.pdf), Purdue University.
-- *2020.06* 浙江大学优秀毕业生 (Outstanding Graduates of Zhejiang University)
-- *2020.05* 浙江省普通高等学校优秀毕业生称号 (Outstanding Graduates of Zhejiang Province)
+- *2020.06* [浙江大学优秀毕业生](http://www.cab.zju.edu.cn/bsqh/2020/0303/c6686a1966143/page.htm) (Outstanding Graduates of Zhejiang University)
+- *2020.05* 浙江省普通高等学校优秀毕业生 (Outstanding Graduates of Zhejiang Province)
 
 # 📖 Educations
 - *2023.09 - (now)*, Ph.D., Quantitative Ecology and Resource Management ([QERM](https://quantitative.uw.edu/)). University of Washington, Seattle, Washington.
