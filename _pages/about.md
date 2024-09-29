@@ -18,7 +18,7 @@ I am a PhD student in Quantitative Ecology and Resource Management (QERM) at the
 
 # 📝 Publications 
 -  Optimizing a rapid LAMP assay for discrimination of *Drosophila suzukii* (Diptera: Drosophilidae) from common drosophilids captured in monitoring traps from the Midwest, United States. **Hong, Z.**, Michel, A.P., & Long, E.Y. (2023). Journal of Economic Entomology, 116(4), 1391–1397. [https://doi.org/10.1093/jee/toad105](https://doi.org/10.1093/jee/toad105).
--  [Updates on Spotted-wing Drosophila (SWD) activity in Indiana blueberries](https://fff.hort.purdue.edu/article/updates-on-spotted-wing-drosophila-swd-activity-in-indiana-blueberries/). Hong, Z., & Long., E.Y. (2021). Purdue University Facts for Fancy Fruit Newsletter, 21(8).  
+-  [Updates on Spotted-wing Drosophila (SWD) activity in Indiana blueberries](https://fff.hort.purdue.edu/article/updates-on-spotted-wing-drosophila-swd-activity-in-indiana-blueberries/). **Hong, Z.**, & Long., E.Y. (2021). Purdue University Facts for Fancy Fruit Newsletter, 21(8).  
 
 # 🎖 Honors & Awards
 - *2022.12* [Outstanding Master's Student Award](https://ag.purdue.edu/department/entm/_docs/newsletters/boiler-buzz/entm-december-2022-newsletter.pdf), Purdue University.
