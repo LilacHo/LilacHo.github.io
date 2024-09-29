@@ -1,6 +1,6 @@
 # Hi there 👋
 
-This is Lilac. I am a PhD student in Quantitative Ecology and Resource Management (QERM) at the University of Washiongton. You can visit my personal homepage [here](LilacHo.github.io).
+This is Lilac. I am a PhD student in Quantitative Ecology and Resource Management (QERM) at the University of Washiongton. You can visit my personal homepage [here](https://lilacho.github.io/).
 
 # Acknowledges
 
