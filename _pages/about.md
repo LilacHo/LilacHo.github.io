@@ -10,7 +10,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a PhD student in Quantitative Ecology and Resource Management (QERM) at the University of Washiongton. My interests lie in using quantitative methods to address both basic and applied ecological questions, with a particular focus on climate change, biodiversity, and conservation issues. My current research in the [Landscape Ecology and Conservation Lab](https://www.landecol.org/) centers on assessing species' vulnerability to climate change. Before joining UW, I earned her M.S. from Purdue University and her B.S. from Cornell University in Entomology, where she focused on integrated pest management of agricultural pests.
+I am a PhD student in Quantitative Ecology and Resource Management (QERM) at the University of Washiongton. My interests lie in using quantitative methods to address both basic and applied ecological questions, with a particular focus on climate change, biodiversity, and conservation issues. My current research in the [Landscape Ecology and Conservation Lab](https://www.landecol.org/) centers on assessing species' vulnerability to climate change. Before joining UW, I earned my M.S. from Purdue University and my B.S. from Cornell University in Entomology, where I focused on integrated pest management of agricultural pests.
 
 
 # 🔥 News
