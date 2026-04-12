@@ -19,16 +19,15 @@ author_profile: true
 .proj-links a:hover { text-decoration: underline; }
 </style>
 
-# 🔬 Projects
 
 <div class="proj-section-title">📖 Ph.D. — University of Washington</div>
 <div class="proj-grid">
   <div class="proj-card">
     <div class="proj-icon">🐦</div>
-    <h3>Climate Vulnerability Assessment of Bird Species</h3>
-    <p>Species distribution models evaluating climate change impacts on bird populations across North America.</p>
-    <div style="margin-top:0.8rem;"><span class="proj-tag">R</span><span class="proj-tag">MaxEnt</span><span class="proj-tag">GBIF</span></div>
-    <div class="proj-links"><a href="https://github.com/LilacHo">GitHub</a> · <a href="#">Paper</a></div>
+    <h3>Climate Change Vulnerability Assessment</h3>
+    <p>Species distribution models evaluation using bird populations across North America.</p>
+    <div style="margin-top:0.8rem;"><span class="proj-tag">R</span><span class="proj-tag">Bayesian</span></div>
+    <!-- <div class="proj-links"><a href="https://github.com/LilacHo">GitHub</a> · <a href="#">Paper</a></div> -->
   </div>
 </div>
 
@@ -36,16 +35,16 @@ author_profile: true
 <div class="proj-grid">
   <div class="proj-card">
     <div class="proj-icon">🫐</div>
-    <h3>Drosophila Risk Modeling</h3>
-    <p>Predictive models for seasonal activity and infestation risk of <em>D. suzukii</em> in Indiana blueberry orchards.</p>
-    <div style="margin-top:0.8rem;"><span class="proj-tag">R</span><span class="proj-tag">GLMMs</span><span class="proj-tag">LAMP</span></div>
-    <div class="proj-links"><a href="https://doi.org/10.1093/jee/toaf237">Publication</a></div>
+    <h3>Pest Population Modeling</h3>
+    <p>Predictive models for seasonal activity and infestation risk of <em>Drosophila suzukii</em> in Indiana blueberry orchards.</p>
+    <div style="margin-top:0.8rem;"><span class="proj-tag">R</span><span class="proj-tag">GLMs</span><span class="proj-tag">Monitoring</span></div>
+    <div class="proj-links"><a href="https://doi.org/10.1093/jee/toaf237">Paper</a> · <a href="https://fff.hort.purdue.edu/article/updates-on-spotted-wing-drosophila-swd-activity-in-indiana-blueberries/">Extension</a></div>
   </div>
   <div class="proj-card">
     <div class="proj-icon">🧬</div>
     <h3>LAMP Assay Optimization</h3>
-    <p>Rapid DNA-based discrimination of <em>D. suzukii</em> from common drosophilids in monitoring traps.</p>
-    <div style="margin-top:0.8rem;"><span class="proj-tag">Molecular</span><span class="proj-tag">Diagnostics</span></div>
+    <p>Rapid DNA-based discrimination of <em>Drosophila suzukii</em> from common drosophilids in monitoring traps.</p>
+    <div style="margin-top:0.8rem;"><span class="proj-tag">Molecular</span><span class="proj-tag">Diagnostics</span><span class="proj-tag">LAMP</span></div>
     <div class="proj-links"><a href="https://doi.org/10.1093/jee/toad105">Paper</a></div>
   </div>
 </div>
