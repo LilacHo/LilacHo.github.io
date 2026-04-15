@@ -6,8 +6,9 @@ author_profile: true
 ---
 
 <style>
-.proj-section-title { font-size: 1.1rem; font-weight: 600; color: #333; margin: 1.5rem 0 1rem 0; padding-bottom: 0.4rem; border-bottom: 2px solid #e5e7eb; }
+.proj-section-title { font-size: 1.1rem; font-weight: 600; color: #333; margin: 1.5rem 0 0.3rem 0; padding-bottom: 0.4rem; border-bottom: 2px solid #e5e7eb; }
 .proj-section-title:first-of-type { margin-top: 0; }
+.proj-section-keywords { font-size: 0.9rem; color: #888; margin: 0 0 1rem 0; }
 .proj-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 1.2rem; margin-bottom: 1.5rem; }
 .proj-card { text-align: center; padding: 2rem 1.5rem; border: 1px solid #e5e7eb; border-radius: 12px; }
 .proj-icon { font-size: 2.5rem; margin-bottom: 0.8rem; }
@@ -32,10 +33,11 @@ author_profile: true
 </div>
 
 <div class="proj-section-title">📖 M.S. — Purdue University</div>
+<p class="proj-section-keywords">Integrated pest management (IPM) · Invasive species · Entomology · Agricultural ecology</p>
 <div class="proj-grid">
   <div class="proj-card">
     <div class="proj-icon">🫐</div>
-    <h3>Pest Population Modeling</h3>
+    <h3>Population Modeling</h3>
     <p>Predictive models for seasonal activity and infestation risk of <em>Drosophila suzukii</em> in Indiana blueberry orchards.</p>
     <div style="margin-top:0.8rem;"><span class="proj-tag">R</span><span class="proj-tag">GLMs</span><span class="proj-tag">Monitoring</span></div>
     <div class="proj-links"><a href="https://doi.org/10.1093/jee/toaf237">Paper</a> · <a href="https://fff.hort.purdue.edu/article/updates-on-spotted-wing-drosophila-swd-activity-in-indiana-blueberries/">Extension</a></div>
